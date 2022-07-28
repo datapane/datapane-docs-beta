@@ -2,9 +2,6 @@
 
 If you want to share your report on the web, _Datapane Cloud_ provides a free API and hosted platform for uploading and sharing reports with a single Python command. Once uploaded, you can share your report with your community, class, or friends by sharing a link.
 
-In addition, you can embed your uploaded report into social platforms, like Reddit and Medium, where your readers can explore your data and plots interactively without leaving your content, like this:
-
-
 !!! info
     
     Your free Cloud account comes with an unlimited number of public reports, and 5 private reports so you can test it within your organization. If you need more private reports, [contact us](mailto:support@datapane.com) or try our Enterprise product (read on)
